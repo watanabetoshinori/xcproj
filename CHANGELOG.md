@@ -2,6 +2,9 @@
 
 ## next version
 
+### Fixed
+- Fixed PBXObject sublasses from checking Equatable properly https://github.com/xcodeswift/xcproj/pull/224 by @yonaskolb
+
 ### 4.0.0
 
 ### Added
